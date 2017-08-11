@@ -1,4 +1,4 @@
-package com.lalit.recipe;
+package com.lalit.recipe.controllers;
 
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.times;
