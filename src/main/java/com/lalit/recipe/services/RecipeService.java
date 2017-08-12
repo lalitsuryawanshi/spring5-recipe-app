@@ -11,4 +11,6 @@ public interface RecipeService {
 	
 	Set<Recipe> getRecipes();
 
+	Object findById(long anyLong);
+
 }
