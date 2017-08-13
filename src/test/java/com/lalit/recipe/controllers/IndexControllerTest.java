@@ -37,8 +37,7 @@ public class IndexControllerTest {
 	Model model;
 	
 	IndexController controller;
-	
-	
+		
 	@Before
 	public void setUp() throws Exception {
 		MockitoAnnotations.initMocks(this);
