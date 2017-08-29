@@ -6,7 +6,7 @@
 	<groupId>com.lalit.recipe</groupId>
 	<artifactId>spring-boot-recipe-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>spring-boot-receipe-app</name>
 	<description>Recipe App project for Spring Boot</description>

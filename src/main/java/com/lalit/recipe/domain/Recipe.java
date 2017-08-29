@@ -63,7 +63,7 @@ public class Recipe {
 	}
 	
 	//Added for bi-directional relationship
-	public Recipe addIngredients(Ingredient ingredient) {
+	public Recipe addIngredient(Ingredient ingredient) {
 		ingredient.setRecipe(this);
 		this.ingredients.add(ingredient);
 		return this;
